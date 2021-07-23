@@ -1,4 +1,4 @@
-# minimax-tic-tac-toe
+# Minimax-Tic-Tac-Toe
 Tic-Tac-Toe implemented in Python3, which utilizes the minimax algorithm.
 
 This was my ICS3U summative.
